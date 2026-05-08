@@ -362,9 +362,9 @@ A: 在记时类型下，填写正常工时后，可在"加班信息"区域填写
 
 ## 📞 技术支持
 
-**项目维护者**: [Your Organization]
-**联系方式**: support@example.com
-**问题反馈**: [GitHub Issues URL]
+**项目维护者**: Touzi
+**联系方式**: swwwtouzi@outlook.com
+**问题反馈**: https://github.com/onetouzi/record/issues/new
 
 ## 📄 许可证
 
