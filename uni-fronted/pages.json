@@ -1,0 +1,88 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/income/index",
+			"style": {
+				"navigationBarTitleText": "收入管理"
+			}
+		},
+		{
+			"path": "pages/income/add",
+			"style": {
+				"navigationBarTitleText": "新增收入"
+			}
+		},
+		{
+			"path": "pages/expense/index",
+			"style": {
+				"navigationBarTitleText": "支出管理"
+			}
+		},
+		{
+			"path": "pages/expense/add",
+			"style": {
+				"navigationBarTitleText": "新增支出"
+			}
+		},
+		{
+			"path": "pages/statistics/index",
+			"style": {
+				"navigationBarTitleText": "数据统计"
+			}
+		},
+		{
+			"path": "pages/mine/index",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "零工记账",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#f5f5f5"
+	},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#667eea",
+		"backgroundColor": "#ffffff",
+		"borderStyle": "black",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "🏠 首页"
+			},
+			{
+				"pagePath": "pages/income/index",
+				"text": "💰 收入"
+			},
+			{
+				"pagePath": "pages/expense/index",
+				"text": "💳 支出"
+			},
+			{
+				"pagePath": "pages/statistics/index",
+				"text": "📈 统计"
+			},
+			{
+				"pagePath": "pages/mine/index",
+				"text": "👤 我的"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}

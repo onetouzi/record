@@ -1,0 +1,38 @@
+# 后端编译和依赖
+/backend/target/
+/backend/.idea/
+/backend/.mvn/
+/backend/*.iml
+/backend/.classpath
+/backend/.project
+/backend/.settings/
+
+# 前端依赖和构建
+/frontend/node_modules/
+/frontend/dist/
+/frontend/npm-debug.log
+/frontend/.DS_Store
+/frontend/.idea/
+/frontend/*.iml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 环境变量
+.env
+.env.local
+*.pem
+*.key
+
+# 日志文件
+*.log
+logs/
+
+# 数据库备份
+*.sql.bak
+*.sql.backup
